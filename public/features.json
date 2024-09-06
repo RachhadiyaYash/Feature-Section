@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/icons/cart-large-minimalistic-svgrepo-com.svg",
+    "title": "E-commerce Features",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed do eiusmod tempor incididunt ut labore et dolore consectetur adipiscing elit.Sed do eiusmod tempor incididunt ."
+  },
+  {
+    "id": 2,
+    "image": "/icons/disk-reader-svgrepo-com.svg",
+    "title": "Disk Space",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 3,
+    "image": "/icons/server-minimalistic-svgrepo-com.svg",
+    "title": "Server Location",
+    "description": "Ut enim ad miSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.nim veniam, quis nostrud exercitationris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "id": 4,
+    "image": "/icons/mouse-svgrepo-com.svg",
+    "title": "One-Click Installers",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "id": 5,
+    "image": "/icons/book-bookmark-svgrepo-com.svg",
+    "title": "Script Support",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "id": 6,
+    "image": "/icons/hosting-svgrepo-com.svg",
+    "title": "Domain Hosting",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  }
+]
